@@ -1,0 +1,1 @@
+this is the final year project of dioloma.we tried to create a online platform to convert crypto currencies into regular currencies like dollar, Euro etc. we have used HTML, css, javascript and PHP. we have used SQL as our database.
